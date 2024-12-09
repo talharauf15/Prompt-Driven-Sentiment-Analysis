@@ -39,7 +39,7 @@ This repository explores the use of lightweight NLP models such as DistilBERT, G
 - Libraries like `transformers`, `torch`, `scikit-learn`, etc. (exact requirements listed in `requirements.txt`)
 
 ### Installation
-Clone the repository:
+Clone  the repository:
 ```bash
 git clone https://github.com/talharauf15/Prompt-Driven-Sentiment-Analysis.git
 cd Prompt-Driven-Sentiment-Analysis
